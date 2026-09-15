@@ -1,0 +1,18 @@
+# Simulink generated cache
+*.slxc
+slprj/
+
+# Ansys generated result and lock files
+*.aedtresults/
+*.aedb/
+*.lock
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tmp
+*.bak
+~$*
+

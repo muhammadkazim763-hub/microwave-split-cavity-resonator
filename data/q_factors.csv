@@ -1,0 +1,5 @@
+configuration,loaded_q,unloaded_q,reported_reduction_percent
+R1 Z-feed,1435.16,2453.23,41.50
+R1 X-feed,798.09,1469.27,45.68
+R2 Z-feed,6615.24,7201.32,8.14
+R2 X-feed,4322.54,5282.63,18.17
